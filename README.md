@@ -1,6 +1,4 @@
-# CityTaxi
-
-Project Title: Taxi Booking System
+#  City Taxi - Taxi Booking System
 
 Type: Web Application
 
